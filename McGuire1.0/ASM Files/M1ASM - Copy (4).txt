@@ -1,0 +1,19 @@
+Label0: MOV D0, 32 
+MOV D1, 1 
+MOV D2, 63 
+SHL D2, D1 
+SHL D2, D1 
+MOV D6, 3 
+ADD D2, D6 
+MOV D7, 10 
+SHL D0, D7 
+ADD D0, D2 
+MOV D3, 19 
+MOV (D3), D0 
+SUB D0, D1 
+Fill: MOV (D2), D0 
+SUB D0, D1 
+SUB D2, D1 
+MOV D3, 19 
+CMP D3, D2 
+BLT Fill 

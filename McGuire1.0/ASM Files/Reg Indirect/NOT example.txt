@@ -1,0 +1,4 @@
+MOV D5, 10 
+NOT D5
+MOV (D5), D5 
+NOT (D5)

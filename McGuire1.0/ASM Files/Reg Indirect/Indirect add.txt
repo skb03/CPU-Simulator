@@ -1,0 +1,5 @@
+MOV D7, 60 
+MOV D0, 15 
+MOV D1, 5 
+ADD D0, D1 	
+MOV (D7), D0 

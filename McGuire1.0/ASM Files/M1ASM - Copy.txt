@@ -1,0 +1,20 @@
+         MOV @-(D6), @-(D5) 
+LBL_OTR: MOV @-(D1), (D5)+ 
+         MOV D3, @(D6)+ 
+         BLT OTR_LBL 
+         MOV @-(D3), (D6) 
+         MOV @-(D4), D0 
+         MOV D2, 45 
+         BRZ OTR_LBL 
+         MOV D3, 47 
+         BGT OTR_LBL 
+         MOV D1, 49 
+         NOT @-(D1) 
+OTR_LBL: BGT LBL_OTR 
+         XOR D2, @-(D5) 
+         MOV D1, 63 
+         MOV D2, 50 
+         MOV (D2), D1 
+         MOV D3, (D2) 
+         MOV D4, (D4) 
+         BLT OTR_LB 

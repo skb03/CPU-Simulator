@@ -1,0 +1,7 @@
+MOV D7, 9 
+MOV D1, 0 
+MOV D2, 2 
+loop: ADD D1, D2 
+CMP D7, D1
+BGT loop 
+MOV D5, 6 

@@ -1,0 +1,5 @@
+MOV D1, 5 
+MOV D2, 7 
+loop: MOV (D1), D2 
+MOV (D1)+, (D1)
+BRA loop 

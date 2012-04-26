@@ -1,0 +1,5 @@
+MOV D6, 30 
+MOV D5, 16 
+MOV (D6), D5 
+MOV D4, 8 
+MOV @(D6)+, D4  

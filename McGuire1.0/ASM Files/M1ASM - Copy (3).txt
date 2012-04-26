@@ -1,0 +1,13 @@
+Label0: MOV D0, 15 
+MOV D1, D0 
+MOV D2, 63 
+MOV D7, 2 
+SHL D2, D7
+MOV D6, 1 
+ADD D2, D6
+ADD D2, D7
+LabelF: MOV (D2), D1 
+MOV D6, 1 
+SUB D2, D6 
+CMP D6, D2
+BLT LabelF 

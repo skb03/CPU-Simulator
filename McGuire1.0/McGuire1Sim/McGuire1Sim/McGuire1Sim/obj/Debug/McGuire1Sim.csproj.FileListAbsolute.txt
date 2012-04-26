@@ -1,0 +1,34 @@
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\bin\Debug\McGuire1Sim.exe
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\bin\Debug\McGuire1Sim.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\Window1.baml
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\Window2.baml
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\Window1.g.cs
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\Window2.g.cs
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim_MarkupCompile.cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.g.resources
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.exe
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.pdb
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.exe
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.pdb
+C:\McGuire1Sim\McGuire1Sim\bin\Debug\McGuire1Sim.exe
+C:\McGuire1Sim\McGuire1Sim\bin\Debug\McGuire1Sim.pdb
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\ResolveAssemblyReference.cache
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\Window1.baml
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\Window2.baml
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\Window1.g.cs
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\Window2.g.cs
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\App.g.cs
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim_MarkupCompile.cache
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.g.resources
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.Properties.Resources.resources
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.csproj.GenerateResource.Cache
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\WindowError.baml
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\WindowError.g.cs
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\WindowCredits.baml
+C:\McGuire1Sim\McGuire1Sim\obj\Debug\WindowCredits.g.cs
+C:\Users\Owner\Desktop\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.exe
+C:\Users\Owner\Desktop\McGuire1Sim\McGuire1Sim\obj\Debug\McGuire1Sim.pdb

@@ -1,0 +1,5 @@
+SYMBOL TABLE INFORMATION
+Symbol name          Line
+-------------------------
+Label0                 0
+Fill                   13

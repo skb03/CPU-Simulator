@@ -1,0 +1,3 @@
+MOV D2, 63  
+MOV D4, 5 
+MOV (D2), D4 

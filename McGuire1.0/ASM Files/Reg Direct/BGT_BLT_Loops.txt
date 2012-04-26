@@ -1,0 +1,8 @@
+MOV D0, 4 
+MOV D1, 1 
+top: SUB D0, D1  
+CMP D0, D1
+BGT top 
+BLT bottom 
+bottom: MOV D0, 0  
+MOV D1, 55 

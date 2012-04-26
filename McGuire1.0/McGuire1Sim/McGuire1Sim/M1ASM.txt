@@ -1,0 +1,10 @@
+Label0: MOV D0, 15 
+MOV D1, D0 
+MOV D2, 63 
+LabelF: MOV (D2), D1 
+MOV D0, 64 
+MOV D0, @(D0)
+MOV D4, 1 
+SHR D2, D4 
+SHL D2, D4 
+BLT LabelF 
