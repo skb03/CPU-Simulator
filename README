@@ -1,0 +1,13 @@
+McGuire 1.0 CPU Simulator
+by: Seth Bane skb_03@hotmail.com
+    Steven Lenig sal010@shsu.edu
+    Stephanie Carter scc009@shsu.edu
+    Sergio Rocha ser021@shsu.edu
+
+This is a program that simulates the operation of a 16-bit processor
+we designed in class. Most of the design is based on an example given
+by our professor, Timothy McGuire CSC_TJM@shsu.edu
+
+The design documentation is separate word document as well as embedded in
+comments thoughout the code
+
